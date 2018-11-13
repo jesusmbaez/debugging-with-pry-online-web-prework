@@ -1,4 +1,4 @@
-def plus_two(z3)
+def plus_two(num = 2)
 	num + 2
 end
 
